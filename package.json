@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/adithyamahesh596/Node.js#readme",
   "dependencies": {
-    "formidable": "^1.1.1"
+    "formidable": "^1.1.1",
+    "nodemailer": "^4.4.2"
   }
 }
