@@ -18,7 +18,7 @@
   "homepage": "https://github.com/adithyamahesh596/Node.js#readme",
   "dependencies": {
     "formidable": "^1.1.1",
-    "mongodb": "^3.0.2",
+    "mongodb": "^3.1.13",
     "nodemailer": "^4.4.2"
   }
 }
